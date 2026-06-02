@@ -47,15 +47,12 @@
 
 ---
 
-### 📊 Network Activity
+### 📡 System Connectivity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arca-inc&show_icons=true&theme=radical&background=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arca-inc&layout=compact&theme=radical&background=0d1117&title_color=00d4ff&text_color=ffffff&hide_border=true" width="41%" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arca-inc&theme=radical&background=0d1117&fire=00d4ff&ring=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=ffffff&stroke=00d4ff&hide_border=true" width="90%" />
+  <code style="color: #00d4ff;">// Data stream encrypted - Private infrastructure active</code>
+  <br /><br />
+  <img src="https://img.shields.io/badge/Repos_Protected-00d4ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Developing-00d4ff?style=for-the-badge&logo=codepen&logoColor=white" />
 </div>
 
 ---
